@@ -1,1 +1,3 @@
-#NewsCounts\n ### Correlation between Internet connection and response rates
+#NewsCounts
+
+### Correlation between Internet connection and response rates
